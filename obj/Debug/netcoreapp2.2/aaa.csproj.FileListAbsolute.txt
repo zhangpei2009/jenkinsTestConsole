@@ -1,0 +1,12 @@
+/Users/zhangpei/Documents/dev/NETCORE/aaa/bin/Debug/netcoreapp2.2/aaa.deps.json
+/Users/zhangpei/Documents/dev/NETCORE/aaa/bin/Debug/netcoreapp2.2/aaa.runtimeconfig.json
+/Users/zhangpei/Documents/dev/NETCORE/aaa/bin/Debug/netcoreapp2.2/aaa.runtimeconfig.dev.json
+/Users/zhangpei/Documents/dev/NETCORE/aaa/bin/Debug/netcoreapp2.2/aaa.dll
+/Users/zhangpei/Documents/dev/NETCORE/aaa/bin/Debug/netcoreapp2.2/aaa.pdb
+/Users/zhangpei/Documents/dev/NETCORE/aaa/obj/Debug/netcoreapp2.2/aaa.csprojAssemblyReference.cache
+/Users/zhangpei/Documents/dev/NETCORE/aaa/obj/Debug/netcoreapp2.2/aaa.AssemblyInfoInputs.cache
+/Users/zhangpei/Documents/dev/NETCORE/aaa/obj/Debug/netcoreapp2.2/aaa.AssemblyInfo.cs
+/Users/zhangpei/Documents/dev/NETCORE/aaa/obj/Debug/netcoreapp2.2/aaa.csproj.CoreCompileInputs.cache
+/Users/zhangpei/Documents/dev/NETCORE/aaa/obj/Debug/netcoreapp2.2/aaa.dll
+/Users/zhangpei/Documents/dev/NETCORE/aaa/obj/Debug/netcoreapp2.2/aaa.pdb
+/Users/zhangpei/Documents/dev/NETCORE/aaa/obj/Debug/netcoreapp2.2/aaa.genruntimeconfig.cache
